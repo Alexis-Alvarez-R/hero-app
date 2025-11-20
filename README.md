@@ -6,7 +6,7 @@ Heros App es una aplicación construida con React + TypeScript que consume una A
 
 Typescript, React, ReactRouter, TanStack Query, TailwindCSS, Shadcn, ZOD.
 
-[Server](https://linktodocumentation)
+[Server](https://github.com/Alexis-Alvarez-R/hero-server)
 
 ## Instalacion
 
